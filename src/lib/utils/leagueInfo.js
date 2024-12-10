@@ -11,7 +11,7 @@ export const homepageText = `
   <p>Is</p>
   <p>A</p>
   <p>Test</p>
-  <iframe width=100% height="1000px"
+  <iframe width="750px" height="600px"
   src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRF8xc5nfiIib9a3KP2wg-n3r9ejyfX7z_mEe_0XJKgaMkqzmDOENGDgIhdTOG3QFWHUWrWHwej1SXd/pubhtml?widget=true&amp;headers=false"></iframe>
 `;
 
