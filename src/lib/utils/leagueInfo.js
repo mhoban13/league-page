@@ -11,7 +11,8 @@ export const homepageText = `
   <p>Is</p>
   <p>A</p>
   <p>Test</p>
-  <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRF8xc5nfiIib9a3KP2wg-n3r9ejyfX7z_mEe_0XJKgaMkqzmDOENGDgIhdTOG3QFWHUWrWHwej1SXd/pubhtml?widget=true&amp;headers=false"></iframe>
+  <iframe width=100% height="1000px"
+  src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRF8xc5nfiIib9a3KP2wg-n3r9ejyfX7z_mEe_0XJKgaMkqzmDOENGDgIhdTOG3QFWHUWrWHwej1SXd/pubhtml?widget=true&amp;headers=false"></iframe>
 `;
 
 /*   STEP 3   */
